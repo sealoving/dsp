@@ -57,8 +57,9 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+**Answer:** my python version is:  
 
+Python 3.6.3 :: Anaconda, Inc.
  
 
 
