@@ -20,8 +20,16 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
-
+> > * **pwd**: show current working directory path
+> > * **mkdir**: creating a directory
+> > * **rm -r**: deleting a directory
+> > * **touch test.txt**: create file "text.txt" using "touch" command
+> > * **rm test.txt**: deleting file "text.txt" 
+> > * **mv A.txt B.txt**: renaming file "A.txt" to "B.txt"
+> > * **ls -a**: listing files including hidden files
+> > * **cp dir1\test.txt dir2\**: copy file test.txt from dir1 to dir2
+> > * **echo A.txt > B.txt**: copy the contents in file A.txt to B.txt, overwriting existing contents in B.txt
+> > * **cat A.txt**: view the contents of A.txt
 ---
 
 ### Q2.  List Files in Unix   
