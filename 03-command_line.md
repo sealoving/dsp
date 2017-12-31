@@ -27,7 +27,7 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 > > * **rm test.txt**: deleting file "text.txt" 
 > > * **mv A.txt B.txt**: renaming file "A.txt" to "B.txt"
 > > * **ls -a**: listing files including hidden files
-> > * **cp dir1\test.txt dir2\**: copy file test.txt from dir1 to dir2
+> > * **cp dir1/test.txt dir2/**: copy file test.txt from dir1 to dir2
 > > * **echo A.txt > B.txt**: copy the contents in file A.txt to B.txt, overwriting existing contents in B.txt
 > > * **cat A.txt**: view the contents of A.txt
 ---
@@ -43,7 +43,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > **ls**: list all files and directories in the current folder  
+> > **ls -a**: **ls** including hidden files  
+> > **ls -l**: **ls** using the long format (file mode, number of links, owner name, group name, bytes, month/day/year/hour/minute last modified, path-name)  
+> > **ls -lh**, **ls** using long format, with byte number in Byte, Kilobyte, Megabyte, Gigabyte, Terabyte, or Petabyte in order to reduce the number of digits  
+> > **ls -lah**: **ls** including hidden files, using long format and bite number in unit suffixes  
+> > **ls -t**: **ls** in the order of most recently modified  
+> > **ls -Glp**: **ls** using long format and colorized output, also directories will be displayed with a slash ('/') after the file name  
 
 ---
 
