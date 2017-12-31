@@ -69,7 +69,11 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > **xargs** reads strings from standard input and uses these strings as arguments to execute a specified utility  
+
+> > Example:  
+> > I used the following command to find unanswered questions in my Github dsp folder:  
+> > $ find . -name "*.md" | xargs grep 'YOUR RESPONSE'
 
  
 
