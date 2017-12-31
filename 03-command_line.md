@@ -57,7 +57,11 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > **ls -c**: display files by timestamp  
+> > **ls -lur**: display files using long format, by most recent access  
+> > **ls -d**: display directories only  
+> > **ls -R**: display sub-directories as well  
+> > **ls -1**: display each file on one line  
 
 ---
 
